@@ -2,8 +2,6 @@
 #include <bits/stdc++.h>
 #define N 4
 using namespace std;
-
-/* A utility function to print solution */
 void printSolution(int board[N][N])
 {
 	for (int i = 0; i < N; i++) {
